@@ -1,6 +1,6 @@
-torch==1.10.0          # or latest version available (adjust based on your PyTorch version)
-torchvision==0.11.0     # or latest version available (adjust based on your PyTorch version)
-Pillow==8.4.0          # for image handling
-tqdm==4.62.3           # for progress bars
-networkx==2.6.3       # for creating knowledge graphs
-matplotlib==3.4.3      # for plotting graphs (if needed in GUI)
+torch
+torchvision
+Pillow
+tqdm
+networkx
+matplotlib
